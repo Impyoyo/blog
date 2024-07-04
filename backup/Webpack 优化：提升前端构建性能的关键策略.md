@@ -105,3 +105,4 @@ module: {
 const component = () => import('./component');
 ```
 通过以上多种优化策略的综合运用，可以显著提升 Webpack 的构建性能，为用户提供更流畅的前端体验。
+<!-- ##{"timestamp":1651651199}## -->
